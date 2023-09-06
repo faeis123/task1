@@ -1,0 +1,511 @@
+.outer{
+    width: 100%;
+    height: 850px;
+    color: white;
+}
+.right-name{
+    width: 50%;
+padding-top: 20px;
+float: left;
+}
+.logo{
+    width: 100%;
+    height: 100px;
+}
+body{
+    margin: 0;
+}
+.right-linked{
+    font-size: 35px;
+    color: blue;
+    text-decoration: none;
+    font-family:Helvetica, Arial, sans-serif; 
+    font-weight: bold;
+    margin-left: 100px;
+}
+.right-in{
+    background: blue;
+    font-size: 35px; 
+    font-family:Helvetica, Arial, sans-serif; 
+    font-weight: 700;
+    border-radius: 4px;
+}
+.left-name{
+float: left;
+width: 50%;
+padding-top: 10px;
+}
+.icones{
+    float: left;
+}
+.icones1{
+    color:#888a8c ;
+    font-size: 20px;
+    float: left;
+    margin-top: 11px;
+    cursor: pointer;
+}
+.icones1:hover{
+    color: black;
+}
+.Articles{
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: -3px;
+    margin-left: -7px;
+    color: #888a8c;
+    text-decoration: none;
+}
+.Articles:hover{
+    color: black;
+}
+.icones2{
+    cursor: pointer;
+color: #888a8c;
+float: left;
+font-size: 20px;
+    margin-left: 40px;
+    margin-top: 11px
+}
+.icones2:hover{
+    color: black;
+}
+.people{
+    color: #888a8c;
+    margin-left: -6px;
+    margin-top: -4px;
+    font-size: 15px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.people:hover{
+    color: black;
+}
+.icones3{
+    float: left;
+    color: #888a8c;
+    margin-left: 40px;
+    font-size: 20px;
+    margin-top: 12px;
+    cursor: pointer;
+
+}
+.icones3:hover{
+    color: black;
+}
+.Learning{
+    color: #888a8c;
+    margin-left: -13px;
+    font-size: 14px;
+    margin-top: -2px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.Learning:hover{
+    color: black;
+}
+.icones4{
+    color: #888a8c;
+    cursor: pointer;
+    font-size: 22px;
+    padding-top: 10px;
+}
+.icones4:hover{
+    color: black;
+
+}
+.Jobs{
+color: #888a8c;
+cursor: pointer;
+font-size: 15px;
+    margin-top: -3px;
+    margin-left: 213px;
+}
+.Jobs:hover{
+    color: black;
+}
+.join-now{
+    float: left;
+}
+.join-now1{
+    margin-left: 90px;
+    margin-top: 12px;
+    background: white;
+    font-size: 17px;
+    font-weight: bold;
+    background: white;
+    border: white;
+    cursor: pointer;
+    border-radius: 4px;
+    height: 30px;
+    width: 101px;
+    color: #888a8c;
+}
+.join-now1:hover{
+    background-color: #f5f5f5;
+}
+.sign-in{
+    float: left;
+}
+.sign-in1{
+    color: blue;
+    margin-left: 45px;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 6px;
+    height: 41px;
+    width: 100px;
+    border: blue;
+    border: 1px solid;
+    cursor: pointer;
+    border-radius: 26px;
+
+}
+.sign-in1:hover{
+
+background:#62bce3 ;
+color: #888a8c;
+}
+.under-body{
+    width: 100%;
+}
+.left-under-body{
+    width: 50%;
+    float: left;
+}
+.name-welcome{
+    color: var(--color-text-accent-2);
+    font-family:-apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif ;
+color: #8c4c4f;
+font-size: 57px;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-weight: 100;
+}
+.Email-or-phone{
+    color:#262626;
+    margin-left: 102px;
+    margin-top: -15px;
+    font-family:Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
+.Email-or-phone-box{
+    margin-left: 101px;
+    height: 45px;
+    width: 400px;
+    color: black;
+    border: 1px solid;
+    margin-top: -20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 17px;
+}
+.Email-or-phone-box:hover{
+    background-color:#f5f5f5;
+    border-bottom: black;
+    border: 2px solid;
+}
+.name-password{
+    color: #262626;
+    font-family:Helvetica, Arial, sans-serif ;
+    font-weight: bold;
+    font-size: 13px;
+    margin-left: 102px;
+    margin-top: 40px;
+}
+.password-box{
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 101px;
+    height: 45px;
+    width: 400px;
+    color: black;
+    border: 1px solid;
+    margin-top: -19px;
+    font-size: 17px;
+}
+.password-box:hover{
+    background-color:#f5f5f5;
+    border-bottom: black;
+    border: 2px solid;
+}
+.login-forgotten{
+    margin-left: 102px;
+    font-family:Helvetica, Arial, sans-serif ;
+font-weight: bold;
+text-decoration: none;
+font-size: 14px;
+}
+.sign-in-button{
+    margin-left: 102px;
+    margin-top: 40px;
+    height: 50px;
+    width: 400px;
+    border-radius: 30px;
+    background:blue;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+.sign-in-button:hover{
+    background-color: #0a0f4f;
+}
+.line1{
+    width: 190px;
+    margin-top: 30px;
+    margin-left: 103px;
+    background-color:#888a8c;
+    height: 1px;
+}
+.left-line1{
+    float: left;
+}
+.left-or{
+    color:black;
+    margin-left: 304px;
+    margin-top: -20px;
+}
+.line2{
+    margin-left: 330px;
+    width: 173px;
+    margin-top: 30px;
+    height: 1px;
+    background-color:#888a8c;
+}
+.contineu-google{
+    width: 397px;
+    height: 42px;
+    font-size: 17px;
+    margin-top: 28px;
+    margin-left: -208px;
+    border-radius: 25px;
+    border-color: aliceblue;
+    border: 1px solid;
+    cursor: pointer;
+    font-family:Helvetica, Arial, sans-serif; 
+}
+.contineu-google:hover{
+    background-color: #62bce3;
+}
+.fa-brands{
+color: blue;
+}
+.new-to{
+    height: 57px;
+    width: 400px;
+    margin-top: 25px;
+    cursor: pointer;
+    font-size: 17px;
+    border: 1px solid;
+    border-color: black;
+    margin-left: 109px;
+    background-color: white;
+    border-radius: 28px;
+    font-family:Helvetica, Arial, sans-serif; 
+}
+.new-to:hover{
+    background-color: #62bce3;
+}
+.right-under-body{
+    width: 50%;
+    float: left;
+}
+.img1-left{
+    width: 700px;
+    margin-top: 100px;
+}
+.outer2{
+    width: 100%;
+    height: 400px;
+    background-color:#edf5ef ;
+}
+.left-body-outer2{
+    width: 45%;
+    float: left;
+}
+.left-body-head{
+    font-size: 50px;
+    margin-left: 125px;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+color: rgba(0, 0, 0, 0.9);
+font-weight: 200;
+}
+.left-outer2-para{
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.9);
+    margin-top: -60px;
+    margin-left: 129px;
+}
+.right-body-outer2{
+    width: 55%;
+    float: left;
+}
+.outer2-table{
+    margin-top: 100px;
+    margin-left: 40px;
+}
+.outer2-1raw-1coloum{
+    width: 130px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 19px;
+    border: 1px solid;
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+}
+.outer2-1raw-1coloum:hover{
+    background-color: darkgrey;
+}
+.outer2-1raw-2coloum{
+    margin-left: -80px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 19px;
+    border: 1px solid;
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+    width: 215px;
+}
+.outer2-1raw-2coloum:hover{
+    background-color: darkgrey;
+}
+.outer2-1raw-3coloum{
+    margin-left: -155px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 19px;
+    border: 1px solid;
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+    width: 135px;
+}
+.outer2-1raw-3coloum:hover{
+    background-color: darkgrey;
+}
+
+.outer2-1raw-4coloum{
+    height: 50px;
+    border-radius: 30px;
+    font-size: 19px;
+    border: 1px solid;
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+    width: 140px;
+    margin-left: -117px;
+}
+.outer2-1raw-4coloum:hover{
+    background-color: darkgrey;
+}
+.outer2-2raw-1coloum{
+    height: 50px;
+    border-radius: 30px;
+    font-size: 19px;
+    border: 1px solid;
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+    width: 210px;
+    margin-top: 10px;
+}
+.outer2-2raw-1coloum:hover{
+    background-color: darkgrey;
+}
+.outer2-2raw-2coloum{
+    height: 50px;
+    border-radius: 30px;
+    font-size: 19px;
+    border: 1px solid;
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+    width: 142px;
+    margin-top: 10px;
+}
+.outer2-2raw-2coloum:hover{
+    background-color: darkgrey;
+}
+.outer2-2raw-3coloum{
+    margin-left: -148px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 19px;
+    border: 1px solid;
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+    width: 245px;
+    margin-top: 10px;
+}
+.outer2-2raw-3coloum:hover{
+    background-color: darkgrey;
+}
+.outer2-3raw-1coloum{
+    height: 50px;
+    border-radius: 30px;
+    font-size: 19px;
+    border: 1px solid;
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+    width: 200px;
+    margin-top: 10px;
+}
+.outer2-3raw-1coloum:hover{
+    background-color: darkgrey;
+}
+.outer2-3raw-2coloum{
+    height: 50px;
+    border-radius: 30px;
+    font-size: 19px;
+    border: 1px solid;
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+    width: 290px;
+    margin-top: 10px;
+}
+.outer2-3raw-2coloum:hover{
+    background-color: darkgrey;
+}
+.outer3{
+    width: 100%;
+    height: 300px;
+    background-color:#eae1f5 ;
+    float: left;
+}
+.under3-text{
+    font-family:Helvetica, Arial, sans-serif; 
+    font-size: 40px;
+    font-weight: 400;
+    margin: 100px;
+    color: #b24020;
+}
+.outer3-div1{
+    float: left;
+}
+.outer3-button{
+    margin-top: 130px;
+    margin-left: 80px;
+    height: 45px;
+    width: 130px;
+    border-radius: 30px;
+    border: 2px solid;
+    border-color: blue;
+    color: blue;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.outer3-button:hover{
+    background-color: #62bce3;
+
+}
